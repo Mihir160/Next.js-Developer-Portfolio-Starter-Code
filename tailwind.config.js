@@ -20,6 +20,10 @@ module.exports = {
       animation: {
         "spin-slow": "spin 10s linear infinite",
       },
+      backgroundImage: {
+        circularLight:
+          "repeating-radial-gradient(rgba(0,0,0,0.4) 2px, #f1f0f0 5px, #f1f0f0 100px)",
+      },
     },
   },
   plugins: [],
